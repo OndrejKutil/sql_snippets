@@ -1,0 +1,41 @@
+product_id,product_name,category_id,price
+1,Laptop,1,643.03
+2,Smartphone,1,34.76
+3,Tablet,1,282.28
+4,Headphones,1,230.98
+5,Camera,1,739.11
+6,Men's T-Shirt,2,679.93
+7,Women's Jeans,2,893.26
+8,Jacket,2,96.07
+9,Dress,2,427.7
+10,Sneakers,2,39.5
+11,Coffee Maker,3,226.45
+12,Blender,3,510.3
+13,Vacuum Cleaner,3,36.27
+14,Air Fryer,3,206.85
+15,Cutlery Set,3,653.39
+16,Science Fiction Novel,4,549.49
+17,Biography,4,228.24
+18,Cookbook,4,593.37
+19,Mystery Novel,4,811.34
+20,Self-Help Book,4,16.43
+21,Basketball,5,807.76
+22,Tennis Racket,5,701.16
+23,Yoga Mat,5,346.85
+24,Camping Tent,5,163.92
+25,Running Shoes,5,957.64
+26,Shampoo,6,343.23
+27,Lipstick,6,101.82
+28,Face Cream,6,105.75
+29,Perfume,6,849.02
+30,Hair Dryer,6,607.69
+31,Board Game,7,809.06
+32,Puzzle,7,732.43
+33,Action Figure,7,540.87
+34,Doll,7,973.38
+35,Video Game,7,384.75
+36,Car Floor Mats,8,556.52
+37,GPS Navigator,8,831.11
+38,Car Battery,8,622.33
+39,Tire Inflator,8,863.09
+40,Car Wax,8,581.58
