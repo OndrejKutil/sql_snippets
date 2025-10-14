@@ -28,15 +28,6 @@ LIMIT 5;
 
 /*
 
--- CTE for generating unique unordered pairs of products (only A&B, not B&A or A&A)
-WITH pairs AS (
-    SELECT p1.product_name AS "p1", p2.product_name AS "p2"
-    FROM products p1
-    CROSS JOIN products p2
-    WHERE p1.product_id < p2.product_id
-);
-
-
 -- combinations by name (not product_id), without A&A
 WITH pairs AS (
   SELECT p1.product_name AS p1, p2.product_name AS p2
